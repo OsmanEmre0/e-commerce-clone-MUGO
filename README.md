@@ -62,4 +62,4 @@ npm run preview
 
 ## Lisans
 
-Bu proje [MIT lisansı](LICENSE) altında lisanslanmıştır.
+Bu proje [MIT lisansı](https://github.com/OsmanEmre0) altında lisanslanmıştır.
