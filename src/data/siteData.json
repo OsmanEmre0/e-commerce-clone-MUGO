@@ -1,0 +1,1005 @@
+{
+  "siteInfo": {
+    "name": "Mugo - Online Alışveriş",
+    "logo": {
+      "src": "/logo.webp",
+      "alt": "Logo"
+    },
+    "socialLinks": {
+      "instagram": "https://instagram.com",
+      "linkedin": "https://linkedin.com",
+      "tiktok": "https://tiktok.com"
+    },
+    "contactInfo": {
+      "email": "info@mugo.com",
+      "phone": "+90 212 123 45 67",
+      "address": {
+        "title": "MUGO Showroom & İstanbul Ofis",
+        "street": "Emirgazi Mah. Akarca Cad. 12/E",
+        "district": "Kağıthane",
+        "city": "İstanbul",
+        "workHours": "Hafta içi: 10:00 - 17:00",
+        "phone": "0212 270 65 70",
+        "email": "destek@mugo.com.tr"
+      }
+    }
+  },
+  "returnPolicy": {
+    "title": "İade Koşulları",
+    "content": "Değişim seçeneği bulunmamaktadır.<br><br>Ürünü teslim alındığı tarihten itibaren 15 gün içerisinde iade edebilirsiniz.<br><br>İade olarak gönderilecek ürünün yeniden satılabilir özelliğini kaybetmemesi ve ulaştığı gibi paketlenmesi önemlidir.<br><br>İç giyim kategorisindeki alt ürünlerde hijyenik sebeplerden dolayı iade yapılmamaktadır.<br><br>İadenizi MNG Kargo (663877199) kurumsal kodumuz ile Kağıthane / İstanbul depomuza gönderebilirsiniz.<br><br>Mail adresinize gönderilen faturayı iade paketinizin içerisine koymayı unutmayın.<br><br>Sorularınız için <a href='mailto:destek@mugo.com.tr'>destek@mugo.com.tr</a>'ye mail atabilir veya 0212 270 65 70 numaralı telefondan bizimle iletişime geçebilirsiniz.",
+    "campaignReturns": {
+      "title": "3 al 2 öde kampanyası iade koşulları:",
+      "scenarios": [
+        {
+          "title": "1. Senaryo",
+          "subtitle": "3 ürünün de aynı fiyata sahip olduğu koşulda:",
+          "description": [
+            "Kampanyadan yararlandığınız için 3 ürünü toplam XTL ödeyerek satın aldınız.",
+            "Kampanya gereği, ürünlerden biri ücretsiz oluyor. Bu durumda her bir ürünün kampanya avantajıyla size maliyeti:",
+            "X TL = 3 ÷ 2 TL",
+            "Eğer 1 ürünü iade ederseniz, kampanya avantajınız devam ettiği için iade tutarınız, o ürünün kampanya fiyatı olan Z TL olacaktır."
+          ]
+        },
+        {
+          "title": "2. Senaryo",
+          "subtitle": "3 ürünün de farklı fiyata sahip olduğu koşulda:",
+          "description": [
+            "Hediye edilen ürünün fiyatı iade edilen ürünün fiyatından düşülür, hediye edilen ürün iade edildiği zaman ücret iadesi yapılmaz."
+          ]
+        }
+      ]
+    }
+  },
+  "brands": {
+    "title": "Markalarımız",
+    "description": "Kalite ve güvenin adresi olan markalarımızı keşfedin",
+    "items": [
+      {
+        "id": 1,
+        "name": "MUGO",
+        "logo": "/images/mugo2.webp",
+        "description": "Günlük hayatınızı kolaylaştıran, şık ve fonksiyonel çanta ve aksesuarlar."
+      },
+      {
+        "id": 2,
+        "name": "PAEN",
+        "logo": "/images/pean.webp",
+        "description": "Modern yaşamın ihtiyaçlarına uygun, minimalist tasarım anlayışıyla üretilen ürünler."
+      }
+    ]
+  },
+  "announcements": [
+    "ŞUBAT AYINA ÖZEL SEPETTE %15 İNDİRİM!",
+    "1.000 TL VE ÜZERİ ALIŞVERİŞLERDE VADE FARKSIZ 3 TAKSİT!",
+    "1.000 TL ve ÜZERİ ALIŞVERİŞLERDE ÜCRETSİZ KARGO!"
+  ],
+  "promoText": "3 Al 2 Öde Fırsatı! ",
+  "mainSlider": [
+    {
+      "id": 1,
+      "image": "https://images.unsplash.com/photo-1553062407-98eeb64c6a62?q=80&w=1470&auto=format&fit=crop",
+      "alt": "Bavul Koleksiyonu",
+      "promoOverlay": {
+        "enabled": true
+      }
+    },
+    {
+      "id": 2,
+      "image": "https://images.unsplash.com/photo-1611824204322-24963b44d68b?q=80&w=1470&auto=format&fit=crop",
+      "alt": "Giyim Koleksiyonu",
+      "promoOverlay": {
+        "enabled": false
+      }
+    },
+    {
+      "id": 3,
+      "image": "https://plus.unsplash.com/premium_photo-1673356302067-aac3b545a362?q=80&w=1887&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "alt": "İndirim Kampanyası",
+      "promoOverlay": {
+        "enabled": false
+      }
+    }
+  ],
+  "products": [
+    {
+      "id": 1,
+      "name": "PAEN Essential Patch Hoodie",
+      "price": "799.00",
+      "image": "https://images.unsplash.com/photo-1620799140408-edc6dcb6d633?q=80&w=1372&auto=format&fit=crop",
+      "hoverImage": "https://images.unsplash.com/photo-1578587018452-892bacefd3f2?q=80&w=1374&auto=format&fit=crop",
+      "rating": 5,
+      "reviews": 10,
+      "colors": ["siyah", "beyaz", "gri"],
+      "category": "LAB Serisi",
+      "searchTags": ["hoodie", "sweatshirt", "kapüşonlu", "essential", "patch", "paen", "giyim", "üst giyim", "siyah", "lacivert"],
+      "longDescription": {
+        "details": "PAEN Essential Patch Hoodie, günlük şıklığınızı konforla buluşturan premium bir üründür. %100 pamuklu kumaşı ile üstün kalite sunar. Oversize kalıbı ile rahat bir kullanım sağlar.",
+        "features": [
+          "Premium kalite pamuk kumaş",
+          "Yumuşak iç yüzey",
+          "Ayarlanabilir kapüşon",
+          "Kanguru cep",
+          "Ribanalı manşet ve etek ucu",
+          "Oversize kalıp"
+        ],
+        "materials": [
+          "%100 Pamuk",
+          "300 GSM kumaş kalınlığı",
+          "Özel yıkama prosesi",
+          "Dayanıklı dikiş detayları"
+        ],
+        "careInstructions": [
+          "30 derecede yıkama",
+          "Ters çevirerek yıkama",
+          "Düşük ısıda ütüleme",
+          "Çamaşır suyu kullanmayınız",
+          "Kuru temizleme yapılmaz"
+        ]
+      }
+    },
+    {
+      "id": 2,
+      "name": "PAEN Puffer Laptop Kılıfı 14\"",
+      "price": "749.00",
+      "image": "https://images.unsplash.com/photo-1603302576837-37561b2e2302?q=80&w=1468&auto=format&fit=crop",
+      "hoverImage": "https://images.unsplash.com/photo-1611174797136-5e4e8e3e5b3d?q=80&w=1374&auto=format&fit=crop",
+      "rating": 4,
+      "reviews": 8,
+      "colors": ["siyah", "gri"],
+      "category": "LAB Serisi",
+      "searchTags": ["laptop kılıfı", "puffer", "koruyucu kılıf", "14 inç", "bilgisayar çantası", "paen", "aksesuar", "siyah", "gri", "bej"],
+      "longDescription": {
+        "details": "PAEN Essential Patch Hoodie, günlük şıklığınızı konforla buluşturan premium bir üründür. %100 pamuklu kumaşı ile üstün kalite sunar. Oversize kalıbı ile rahat bir kullanım sağlar.",
+        "features": [
+          "Premium kalite pamuk kumaş",
+          "Yumuşak iç yüzey",
+          "Ayarlanabilir kapüşon",
+          "Kanguru cep",
+          "Ribanalı manşet ve etek ucu",
+          "Oversize kalıp"
+        ],
+        "materials": [
+          "%100 Pamuk",
+          "300 GSM kumaş kalınlığı",
+          "Özel yıkama prosesi",
+          "Dayanıklı dikiş detayları"
+        ],
+        "careInstructions": [
+          "30 derecede yıkama",
+          "Ters çevirerek yıkama",
+          "Düşük ısıda ütüleme",
+          "Çamaşır suyu kullanmayınız",
+          "Kuru temizleme yapılmaz"
+        ]
+      }
+    },
+    {
+      "id": 3,
+      "name": "PAEN Daily Sırt Çantası",
+      "price": "1,249.00",
+      "image": "https://images.unsplash.com/photo-1622560480605-d83c853bc5c3?q=80&w=1374&auto=format&fit=crop",
+      "hoverImage": "https://images.unsplash.com/photo-1553062407-98eeb64c6a45?q=80&w=1374&auto=format&fit=crop",
+      "rating": 4.5,
+      "reviews": 15,
+      "colors": ["siyah", "beyaz", "gri"],
+      "category": "LAB Serisi",
+      "searchTags": ["sırt çantası", "daily", "günlük çanta", "okul çantası", "laptop çantası", "paen", "çanta", "siyah", "gri"],
+      "longDescription": {
+        "details": "PAEN Essential Patch Hoodie, günlük şıklığınızı konforla buluşturan premium bir üründür. %100 pamuklu kumaşı ile üstün kalite sunar. Oversize kalıbı ile rahat bir kullanım sağlar.",
+        "features": [
+          "Premium kalite pamuk kumaş",
+          "Yumuşak iç yüzey",
+          "Ayarlanabilir kapüşon",
+          "Kanguru cep",
+          "Ribanalı manşet ve etek ucu",
+          "Oversize kalıp"
+        ],
+        "materials": [
+          "%100 Pamuk",
+          "300 GSM kumaş kalınlığı",
+          "Özel yıkama prosesi",
+          "Dayanıklı dikiş detayları"
+        ],
+        "careInstructions": [
+          "30 derecede yıkama",
+          "Ters çevirerek yıkama",
+          "Düşük ısıda ütüleme",
+          "Çamaşır suyu kullanmayınız",
+          "Kuru temizleme yapılmaz"
+        ]
+      }
+    },
+    {
+      "id": 4,
+      "name": "PAEN Grid Düzenleyici Teknoloji Çantası",
+      "price": "849.00",
+      "image": "https://images.unsplash.com/photo-1598532163257-ae3c6b2524b6?q=80&w=1463&auto=format&fit=crop",
+      "hoverImage": "https://images.unsplash.com/photo-1553062407-98eeb64c6a62?q=80&w=1470&auto=format&fit=crop",
+      "rating": 4.5,
+      "reviews": 33,
+      "colors": ["siyah", "gri"],
+      "category": "LAB Serisi",
+      "searchTags": ["teknoloji çantası", "düzenleyici", "grid", "kablo çantası", "elektronik", "paen", "aksesuar", "siyah", "bej"],
+      "longDescription": {
+        "details": "PAEN Essential Patch Hoodie, günlük şıklığınızı konforla buluşturan premium bir üründür. %100 pamuklu kumaşı ile üstün kalite sunar. Oversize kalıbı ile rahat bir kullanım sağlar.",
+        "features": [
+          "Premium kalite pamuk kumaş",
+          "Yumuşak iç yüzey",
+          "Ayarlanabilir kapüşon",
+          "Kanguru cep",
+          "Ribanalı manşet ve etek ucu",
+          "Oversize kalıp"
+        ],
+        "materials": [
+          "%100 Pamuk",
+          "300 GSM kumaş kalınlığı",
+          "Özel yıkama prosesi",
+          "Dayanıklı dikiş detayları"
+        ],
+        "careInstructions": [
+          "30 derecede yıkama",
+          "Ters çevirerek yıkama",
+          "Düşük ısıda ütüleme",
+          "Çamaşır suyu kullanmayınız",
+          "Kuru temizleme yapılmaz"
+        ]
+      }
+    },
+    {
+      "id": 5,
+      "name": "PAEN Minimal Cüzdan",
+      "price": "499.99",
+      "image": "https://images.unsplash.com/photo-1627123424574-724758594e93?q=80&w=1374&auto=format&fit=crop",
+      "hoverImage": "https://images.unsplash.com/photo-1627123424574-724758594e93?q=80&w=1374&auto=format&fit=crop&flip=1",
+      "rating": 5,
+      "reviews": 22,
+      "colors": ["siyah", "beyaz", "gri"],
+      "category": "LAB Serisi",
+      "searchTags": ["cüzdan", "minimal", "kartlık", "deri cüzdan", "paen", "aksesuar", "siyah", "kahverengi"],
+      "longDescription": {
+        "details": "PAEN Essential Patch Hoodie, günlük şıklığınızı konforla buluşturan premium bir üründür. %100 pamuklu kumaşı ile üstün kalite sunar. Oversize kalıbı ile rahat bir kullanım sağlar.",
+        "features": [
+          "Premium kalite pamuk kumaş",
+          "Yumuşak iç yüzey",
+          "Ayarlanabilir kapüşon",
+          "Kanguru cep",
+          "Ribanalı manşet ve etek ucu",
+          "Oversize kalıp"
+        ],
+        "materials": [
+          "%100 Pamuk",
+          "300 GSM kumaş kalınlığı",
+          "Özel yıkama prosesi",
+          "Dayanıklı dikiş detayları"
+        ],
+        "careInstructions": [
+          "30 derecede yıkama",
+          "Ters çevirerek yıkama",
+          "Düşük ısıda ütüleme",
+          "Çamaşır suyu kullanmayınız",
+          "Kuru temizleme yapılmaz"
+        ]
+      }
+    },
+    {
+      "id": 6,
+      "name": "PAEN Crossbody Omuz Çantası",
+      "price": "899.00",
+      "image": "https://images.unsplash.com/photo-1591348278863-a8fb3887e2aa?q=80&w=1374&auto=format&fit=crop",
+      "hoverImage": "https://images.unsplash.com/photo-1591348122449-8c1b0af69be8?q=80&w=1374&auto=format&fit=crop",
+      "rating": 4.5,
+      "reviews": 18,
+      "colors": ["siyah", "beyaz", "gri"],
+      "category": "LAB Serisi",
+      "searchTags": ["omuz çantası", "crossbody", "çapraz çanta", "günlük çanta", "paen", "çanta", "siyah", "bej", "kahverengi"],
+      "longDescription": {
+        "details": "PAEN Essential Patch Hoodie, günlük şıklığınızı konforla buluşturan premium bir üründür. %100 pamuklu kumaşı ile üstün kalite sunar. Oversize kalıbı ile rahat bir kullanım sağlar.",
+        "features": [
+          "Premium kalite pamuk kumaş",
+          "Yumuşak iç yüzey",
+          "Ayarlanabilir kapüşon",
+          "Kanguru cep",
+          "Ribanalı manşet ve etek ucu",
+          "Oversize kalıp"
+        ],
+        "materials": [
+          "%100 Pamuk",
+          "300 GSM kumaş kalınlığı",
+          "Özel yıkama prosesi",
+          "Dayanıklı dikiş detayları"
+        ],
+        "careInstructions": [
+          "30 derecede yıkama",
+          "Ters çevirerek yıkama",
+          "Düşük ısıda ütüleme",
+          "Çamaşır suyu kullanmayınız",
+          "Kuru temizleme yapılmaz"
+        ]
+      }
+    },
+    {
+      "id": 7,
+      "name": "PAEN Oversize Sweatshirt",
+      "price": "699.00",
+      "image": "https://images.unsplash.com/photo-1556821840-3a63f95609a7?q=80&w=1374&auto=format&fit=crop",
+      "hoverImage": "https://images.unsplash.com/photo-1554568218-0f1715e72254?q=80&w=1374&auto=format&fit=crop",
+      "rating": 4,
+      "reviews": 12,
+      "colors": ["siyah", "beyaz", "gri"],
+      "category": "LAB Serisi",
+      "searchTags": ["sweatshirt", "oversize", "basic", "giyim", "üst giyim", "paen", "siyah", "gri", "lacivert"],
+      "longDescription": {
+        "details": "PAEN Essential Patch Hoodie, günlük şıklığınızı konforla buluşturan premium bir üründür. %100 pamuklu kumaşı ile üstün kalite sunar. Oversize kalıbı ile rahat bir kullanım sağlar.",
+        "features": [
+          "Premium kalite pamuk kumaş",
+          "Yumuşak iç yüzey",
+          "Ayarlanabilir kapüşon",
+          "Kanguru cep",
+          "Ribanalı manşet ve etek ucu",
+          "Oversize kalıp"
+        ],
+        "materials": [
+          "%100 Pamuk",
+          "300 GSM kumaş kalınlığı",
+          "Özel yıkama prosesi",
+          "Dayanıklı dikiş detayları"
+        ],
+        "careInstructions": [
+          "30 derecede yıkama",
+          "Ters çevirerek yıkama",
+          "Düşük ısıda ütüleme",
+          "Çamaşır suyu kullanmayınız",
+          "Kuru temizleme yapılmaz"
+        ]
+      }
+    }
+  ],
+  "discountedProducts": [
+    {
+      "id": 8,
+      "name": "MUGO Essential Unisex Zip Hoodie",
+      "price": "1,139.40",
+      "originalPrice": "1,899.00",
+      "discountPercentage": "40",
+      "image": "https://images.unsplash.com/photo-1620799140408-edc6dcb6d633?q=80&w=1372&auto=format&fit=crop",
+      "hoverImage": "https://images.unsplash.com/photo-1578587018452-892bacefd3f2?q=80&w=1374&auto=format&fit=crop",
+      "rating": 5,
+      "reviews": 4,
+      "colors": ["siyah", "beyaz", "gri"],
+      "brand": "MUGO",
+      "link": "/urunler/mugo-essential-unisex-zip-hoodie",
+      "searchTags": ["hoodie", "sweatshirt", "kapüşonlu", "fermuarlı", "essential", "unisex", "mugo", "giyim", "üst giyim", "indirimli"]
+    },
+    {
+      "id": 9,
+      "name": "MUGO Campus Sırt Çantası - Bordo",
+      "price": "899.40",
+      "originalPrice": "1,499.00",
+      "discountPercentage": "40",
+      "image": "https://images.unsplash.com/photo-1622560480605-d83c853bc5c3?q=80&w=1374&auto=format&fit=crop",
+      "hoverImage": "https://images.unsplash.com/photo-1553062407-98eeb64c6a45?q=80&w=1374&auto=format&fit=crop",
+      "rating": 5,
+      "reviews": 26,
+      "colors": ["siyah", "beyaz", "gri"],
+      "brand": "MUGO",
+      "link": "/urunler/mugo-campus-sirt-cantasi-bordo"
+    },
+    {
+      "id": 10,
+      "name": "MUGO Campus Sırt Çantası - Petrol",
+      "price": "899.40",
+      "originalPrice": "1,499.00",
+      "discountPercentage": "40",
+      "image": "https://images.unsplash.com/photo-1598532163257-ae3c6b2524b6?q=80&w=1463&auto=format&fit=crop",
+      "hoverImage": "https://images.unsplash.com/photo-1553062407-98eeb64c6a62?q=80&w=1470&auto=format&fit=crop",
+      "rating": 5,
+      "reviews": 20,
+      "colors": ["siyah", "beyaz", "gri"],
+      "brand": "MUGO",
+      "link": "/urunler/mugo-campus-sirt-cantasi-petrol"
+    },
+    {
+      "id": 11,
+      "name": "MUGO Basic Unisex Zip Hoodie",
+      "price": "1,139.40",
+      "originalPrice": "1,899.00",
+      "discountPercentage": "40",
+      "image": "https://images.unsplash.com/photo-1556821840-3a63f95609a7?q=80&w=1374&auto=format&fit=crop",
+      "hoverImage": "https://images.unsplash.com/photo-1554568218-0f1715e72254?q=80&w=1374&auto=format&fit=crop",
+      "rating": 5,
+      "reviews": 21,
+      "colors": ["siyah", "beyaz", "gri"],
+      "brand": "MUGO",
+      "link": "/urunler/mugo-basic-unisex-zip-hoodie"
+    },
+    {
+      "id": 12,
+      "name": "MUGO City Sırt Çantası - Gri",
+      "price": "1,119.30",
+      "originalPrice": "1,599.00",
+      "discountPercentage": "30",
+      "image": "https://images.unsplash.com/photo-1591348278863-a8fb3887e2aa?q=80&w=1374&auto=format&fit=crop",
+      "hoverImage": "https://images.unsplash.com/photo-1591348122449-8c1b0af69be8?q=80&w=1374&auto=format&fit=crop",
+      "rating": 5,
+      "reviews": 22,
+      "colors": ["siyah", "beyaz", "gri"],
+      "brand": "MUGO",
+      "link": "/urunler/mugo-city-sirt-cantasi-gri"
+    },
+    {
+      "id": 13,
+      "name": "MUGO Minimal Cüzdan - Siyah",
+      "price": "349.30",
+      "originalPrice": "499.00",
+      "discountPercentage": "30",
+      "image": "https://images.unsplash.com/photo-1627123424574-724758594e93?q=80&w=1374&auto=format&fit=crop",
+      "hoverImage": "https://images.unsplash.com/photo-1627123424574-724758594e93?q=80&w=1374&auto=format&fit=crop&flip=1",
+      "rating": 4.5,
+      "reviews": 18,
+      "colors": ["siyah", "beyaz", "gri"],
+      "brand": "MUGO",
+      "link": "/urunler/mugo-minimal-cuzdan-siyah"
+    },
+    {
+      "id": 14,
+      "name": "MUGO Crossbody Çanta - Bej",
+      "price": "629.30",
+      "originalPrice": "899.00",
+      "discountPercentage": "30",
+      "image": "https://images.unsplash.com/photo-1603302576837-37561b2e2302?q=80&w=1468&auto=format&fit=crop",
+      "hoverImage": "https://images.unsplash.com/photo-1611174797136-5e4e8e3e5b3d?q=80&w=1374&auto=format&fit=crop",
+      "rating": 4.5,
+      "reviews": 15,
+      "colors": ["siyah", "beyaz", "gri"],
+      "brand": "MUGO",
+      "link": "/urunler/mugo-crossbody-canta-bej"
+    },
+    {
+      "id": 15,
+      "name": "MUGO Laptop Kılıfı 15\"",
+      "price": "524.30",
+      "originalPrice": "749.00",
+      "discountPercentage": "30",
+      "image": "https://images.unsplash.com/photo-1611174797136-5e4e8e3e5b3d?q=80&w=1374&auto=format&fit=crop",
+      "hoverImage": "https://images.unsplash.com/photo-1603302576837-37561b2e2302?q=80&w=1468&auto=format&fit=crop",
+      "rating": 4,
+      "reviews": 12,
+      "colors": ["siyah", "beyaz", "gri"],
+      "brand": "MUGO",
+      "link": "/urunler/mugo-laptop-kilifi-15"
+    }
+  ],
+  "packages": [
+    {
+      "id": 1,
+      "title": "Avantajlı Kış Paketi",
+      "brand": "MUGO",
+      "image": "https://images.unsplash.com/photo-1614914135224-925593607248?q=80&w=1374&auto=format&fit=crop",
+      "rating": 5,
+      "reviews": 28,
+      "originalPrice": "₺1,299.00",
+      "discountPrice": "₺1,099.00",
+      "discount": "₺15",
+      "discountPercentage": "%15",
+      "link": "/paketler/kis-paketi",
+      "colors": ["siyah", "beyaz", "gri"]
+    },
+    {
+      "id": 2,
+      "title": "Avantajlı Konfor Paketi",
+      "brand": "MUGO",
+      "image": "https://images.unsplash.com/photo-1620799140408-edc6dcb6d633?q=80&w=1372&auto=format&fit=crop",
+      "rating": 5,
+      "reviews": 33,
+      "originalPrice": "₺1,599.00",
+      "discountPrice": "₺1,399.00",
+      "discount": "₺13",
+      "discountPercentage": "%13",
+      "link": "/paketler/konfor-paketi",
+      "colors": ["siyah", "beyaz", "gri"]
+    },
+    {
+      "id": 3,
+      "title": "Avantajlı Bere Paketi",
+      "brand": "MUGO",
+      "image": "https://images.unsplash.com/photo-1576871337622-98d48d1cf531?q=80&w=1374&auto=format&fit=crop",
+      "rating": 5,
+      "reviews": 14,
+      "originalPrice": "₺599.00",
+      "discountPrice": "₺499.00",
+      "discount": "₺17",
+      "discountPercentage": "%17",
+      "link": "/paketler/bere-paketi",
+      "colors": ["siyah", "beyaz", "gri"]
+    },
+    {
+      "id": 4,
+      "title": "Avantajlı Bel Çantası Paketi",
+      "brand": "MUGO",
+      "image": "https://images.unsplash.com/photo-1622560480605-d83c853bc5c3?q=80&w=1374&auto=format&fit=crop",
+      "rating": 5,
+      "reviews": 31,
+      "originalPrice": "₺759.00",
+      "discountPrice": "₺559.00",
+      "discount": "₺26",
+      "discountPercentage": "%26",
+      "link": "/paketler/bel-cantasi-paketi",
+      "colors": ["siyah", "beyaz", "gri"]
+    }
+  ],
+  "banners": [
+    {
+      "id": 1,
+      "title": "Hoodie Serisi",
+      "image": "https://images.unsplash.com/photo-1556821840-3a63f95609a7?q=80&w=1374&auto=format&fit=crop",
+      "link": "/hoodie-serisi"
+    },
+    {
+      "id": 2,
+      "title": "Bere Serisi",
+      "image": "https://plus.unsplash.com/premium_photo-1669279283326-f2e7f63cb7e9?q=80&w=1887&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "link": "/bere-serisi"
+    }
+  ],
+  "navigation": {
+    "categories": [
+      {
+        "id": 1,
+        "name": "Çanta",
+        "link": "/canta",
+        "hasDropdown": true,
+        "dropdownItems": [
+          {
+            "id": 101,
+            "name": "Bel Çantası",
+            "link": "/canta/bel-cantasi",
+            "description": "Şık ve kullanışlı bel çantaları"
+          },
+          {
+            "id": 102,
+            "name": "Sırt Çantası",
+            "link": "/canta/sirt-cantasi",
+            "description": "Günlük kullanım için dayanıklı sırt çantaları"
+          },
+          {
+            "id": 103,
+            "name": "Omuz Çantası",
+            "link": "/canta/omuz-cantasi",
+            "description": "Modern ve şık omuz çantaları"
+          },
+          {
+            "id": 104,
+            "name": "Spor Çantası",
+            "link": "/canta/spor-cantasi",
+            "description": "Spor aktiviteleri için geniş çantalar"
+          },
+          {
+            "id": 105,
+            "name": "Laptop Kılıfı",
+            "link": "/canta/laptop-kilifi",
+            "description": "Laptopunuzu koruyacak şık kılıflar"
+          },
+          {
+            "id": 106,
+            "name": "Makyaj Çantası",
+            "link": "/canta/makyaj-cantasi",
+            "description": "Kozmetik ürünleriniz için özel bölmeli çantalar"
+          },
+          {
+            "id": 107,
+            "name": "Organizer",
+            "link": "/canta/organizer",
+            "description": "Eşyalarınızı düzenli tutacak organizerlar"
+          }
+        ]
+      },
+      {
+        "id": 2,
+        "name": "Aksesuar",
+        "link": "/aksesuar",
+        "hasDropdown": true,
+        "dropdownItems": [
+          {
+            "id": 201,
+            "name": "Cüzdan",
+            "link": "/aksesuar/cuzdan",
+            "description": "Minimal ve şık cüzdanlar"
+          },
+          {
+            "id": 202,
+            "name": "Şapka",
+            "link": "/aksesuar/sapka",
+            "description": "Her mevsim için şapkalar"
+          },
+          {
+            "id": 203,
+            "name": "Bere",
+            "link": "/aksesuar/bere",
+            "description": "Soğuk havalar için sıcak bereler"
+          },
+          {
+            "id": 204,
+            "name": "Eldiven",
+            "link": "/aksesuar/eldiven",
+            "description": "Kış için şık ve sıcak eldivenler"
+          }
+        ]
+      },
+      {
+        "id": 3,
+        "name": "Seyahat",
+        "link": "/seyahat",
+        "hasDropdown": true,
+        "dropdownItems": [
+          {
+            "id": 301,
+            "name": "Valiz",
+            "link": "/seyahat/valiz",
+            "description": "Dayanıklı ve hafif valizler"
+          },
+          {
+            "id": 302,
+            "name": "Seyahat Çantası",
+            "link": "/seyahat/seyahat-cantasi",
+            "description": "Kısa seyahatler için ideal çantalar"
+          },
+          {
+            "id": 303,
+            "name": "Pasaport Kılıfı",
+            "link": "/seyahat/pasaport-kilifi",
+            "description": "Pasaport ve seyahat belgeleriniz için koruyucu kılıflar"
+          }
+        ]
+      },
+      {
+        "id": 4,
+        "name": "Giyim",
+        "link": "/giyim",
+        "hasDropdown": true,
+        "dropdownItems": [
+          {
+            "id": 401,
+            "name": "Sweatshirt",
+            "link": "/giyim/sweatshirt",
+            "description": "Rahat ve şık sweatshirtler"
+          },
+          {
+            "id": 402,
+            "name": "Hoodie",
+            "link": "/giyim/hoodie",
+            "description": "Kapüşonlu rahat hoodieler"
+          },
+          {
+            "id": 403,
+            "name": "T-Shirt",
+            "link": "/giyim/tshirt",
+            "description": "Günlük kullanım için t-shirtler"
+          }
+        ]
+      },
+      {
+        "id": 5,
+        "name": "Markalar",
+        "link": "/markalar",
+        "hasDropdown": false
+      },
+      {
+        "id": 6,
+        "name": "İndirim",
+        "link": "/indirim",
+        "hasDropdown": false,
+        "isHighlighted": true
+      }
+    ]
+  },
+  "features": [
+    {
+      "id": 1,
+      "icon": "bi-shield-check",
+      "title": "Güvenli Ödeme",
+      "description": "256 Bit SSL ile Güvende Alışveriş"
+    },
+    {
+      "id": 2,
+      "icon": "bi-box-seam",
+      "title": "Kargo Bizden",
+      "description": "1.000 TL ve Üzeri Siparişlerde Ücretsiz Kargo"
+    },
+    {
+      "id": 3,
+      "icon": "bi-arrow-repeat",
+      "title": "Kolay İade",
+      "description": "15 İş Günü İçerisinde Kolay İade"
+    }
+  ],
+  "footer": {
+    "columns": [
+      {
+        "title": "Hakkımızda",
+        "links": [
+          {"name": "Anasayfa", "url": "/anasayfa"},
+          {"name": "İletişim", "url": "/iletisim"},
+          {"name": "SSS", "url": "/sss"},
+          {"name": "İade Koşulları", "url": "/iade-kosullari"},
+          {"name": "Ön Bilgilendirme", "url": "/on-bilgilendirme"},
+          {"name": "Satış Sözleşmesi", "url": "/satis-sozlesmesi"}
+        ]
+      },
+      {
+        "title": "MUGO",
+        "links": [
+          {"name": "Sırt Çantası", "url": "/sirt-cantasi"},
+          {"name": "Bel Çantası", "url": "/bel-cantasi"},
+          {"name": "Valiz", "url": "/valiz"},
+          {"name": "Laptop Kılıfı", "url": "/laptop-kilifi"}
+        ]
+      },
+      {
+        "title": "PAEN",
+        "links": [
+          {"name": "Laptop Kılıfı", "url": "/laptop-kilifi"},
+          {"name": "Organizer", "url": "/organizer"}
+        ]
+      }
+    ],
+    "qrCode": {
+      "image": "https://etbis.eticaret.gov.tr/siteassets/images/etrustlogo.png",
+      "text": "Mobil Uygulamamız"
+    },
+    "socialIcons": [
+      {"name": "Instagram", "icon": "bi-instagram", "url": "https://instagram.com"},
+      {"name": "LinkedIn", "icon": "bi-linkedin", "url": "https://linkedin.com"},
+      {"name": "TikTok", "icon": "bi-tiktok", "url": "https://tiktok.com"}
+    ],
+    "copyright": "© 2011-2024 MUGO - Osman Emre Sarıahmetoğlu Hazırlamıştır."
+  },
+  "contactMarquee": [
+    "Destek: 0212 270 65 70 / destek@mugo.com.tr",
+    "Destek: 0212 270 65 70 / destek@mugo.com.tr", 
+    "Destek: 0212 270 65 70 / destek@mugo.com.tr",
+    "Destek: 0212 270 65 70 / destek@mugo.com.tr",
+    "Destek: 0212 270 65 70 / destek@mugo.com.tr"
+  ],
+  "productFilters": {
+    "beltBags": {
+      "model": [
+        { "id": "belt-bags", "name": "Bel Çantası", "count": 2 },
+        { "id": "classic-belt-bags", "name": "Classic Bel Çantası", "count": 8 },
+        { "id": "mini-belt-bags", "name": "Mini Bel Çantası", "count": 12 }
+      ],
+      "style": [
+        { "id": "casual", "name": "Günlük", "count": 2 },
+        { "id": "sport", "name": "Spor", "count": 1 }
+      ],
+      "color": [
+        { "id": "black", "name": "Siyah", "count": 1 },
+        { "id": "brown", "name": "Kahverengi", "count": 1 },
+        { "id": "navy", "name": "Lacivert", "count": 2 },
+        { "id": "green", "name": "Petrol Yeşili", "count": 2 },
+        { "id": "beige", "name": "Bej", "count": 1 },
+        { "id": "burgundy", "name": "Bordo", "count": 1 },
+        { "id": "gray", "name": "Gri", "count": 1 },
+        { "id": "orange", "name": "Turuncu", "count": 1 },
+        { "id": "pink", "name": "Pembe", "count": 1 },
+        { "id": "yellow", "name": "Sarı", "count": 1 }
+      ],
+      "size": [
+        { "id": "small", "name": "Küçük", "count": 12 },
+        { "id": "medium", "name": "Orta", "count": 1 },
+        { "id": "large", "name": "Büyük", "count": 1 }
+      ]
+    }
+  },
+  
+  "beltBags": [
+    {
+      "id": "16",
+      "brand": "MUGO",
+      "name": "Traveler Bel Çantası - Gri",
+      "price": "1,149.00",
+      "image": "https://images.unsplash.com/photo-1553062407-98eeb64c6a62?q=80&w=1470&auto=format&fit=crop",
+      "hoverImage": "https://images.unsplash.com/photo-1553062407-98eeb64c6a45?q=80&w=1374&auto=format&fit=crop",
+      "rating": 5,
+      "reviews": 7,
+      "colors": ["gri"],
+      "model": "belt-bags",
+      "style": "casual",
+      "color": "gray",
+      "size": "medium"
+    },
+    {
+      "id": "17",
+      "brand": "MUGO",
+      "name": "Traveler Bel Çantası - Turuncu",
+      "price": "1,149.00",
+      "image": "https://images.unsplash.com/photo-1553062407-98eeb64c6a62?q=80&w=1470&auto=format&fit=crop",
+      "hoverImage": "https://images.unsplash.com/photo-1553062407-98eeb64c6a45?q=80&w=1374&auto=format&fit=crop",
+      "rating": 5,
+      "reviews": 7,
+      "colors": ["turuncu"],
+      "model": "belt-bags",
+      "style": "casual",
+      "color": "orange",
+      "size": "medium"
+    },
+    {
+      "id": "18",
+      "brand": "MUGO",
+      "name": "Traveler Bel Çantası - Bej",
+      "price": "150.00",
+      "image": "https://images.unsplash.com/photo-1591348278863-a8fb3887e2aa?q=80&w=1374&auto=format&fit=crop",
+      "hoverImage": "https://images.unsplash.com/photo-1591348122449-8c1b0af69be8?q=80&w=1374&auto=format&fit=crop",
+      "rating": 5,
+      "reviews": 7,
+      "colors": ["bej"],
+      "model": "belt-bags",
+      "style": "casual",
+      "color": "beige",
+      "size": "medium"
+    },
+    {
+      "id": "19",
+      "brand": "MUGO",
+      "name": "MUGO Mini Bel Çantası - Siyah",
+      "price": "149.50",
+      "originalPrice": "299.00",
+      "discountPercentage": "50",
+      "image": "https://images.unsplash.com/photo-1622560480605-d83c853bc5c3?q=80&w=1374&auto=format&fit=crop",
+      "hoverImage": "https://images.unsplash.com/photo-1553062407-98eeb64c6a45?q=80&w=1374&auto=format&fit=crop",
+      "rating": 5,
+      "reviews": 15,
+      "colors": ["siyah"],
+      "model": "mini-belt-bags",
+      "style": "sport",
+      "color": "black",
+      "size": "small"
+    },
+    {
+      "id": "20",
+      "brand": "MUGO",
+      "name": "Traveler Bel Çantası - Bej",
+      "price": "1,149.00",
+      "image": "https://images.unsplash.com/photo-1591348278863-a8fb3887e2aa?q=80&w=1374&auto=format&fit=crop",
+      "hoverImage": "https://images.unsplash.com/photo-1591348122449-8c1b0af69be8?q=80&w=1374&auto=format&fit=crop",
+      "rating": 5,
+      "reviews": 7,
+      "colors": ["bej"],
+      "model": "belt-bags",
+      "style": "casual",
+      "color": "beige",
+      "size": "medium"
+    },
+    {
+      "id": "21",
+      "brand": "MUGO",
+      "name": "Traveler Bel Çantası - Bej",
+      "price": "1,149.00",
+      "image": "https://images.unsplash.com/photo-1591348278863-a8fb3887e2aa?q=80&w=1374&auto=format&fit=crop",
+      "hoverImage": "https://images.unsplash.com/photo-1591348122449-8c1b0af69be8?q=80&w=1374&auto=format&fit=crop",
+      "rating": 5,
+      "reviews": 7,
+      "colors": ["bej"],
+      "model": "belt-bags",
+      "style": "casual",
+      "color": "beige",
+      "size": "medium"
+    },
+    {
+      "id": "22",
+      "brand": "MUGO",
+      "name": "Traveler Bel Çantası - Bej",
+      "price": "1,149.00",
+      "image": "https://images.unsplash.com/photo-1591348278863-a8fb3887e2aa?q=80&w=1374&auto=format&fit=crop",
+      "hoverImage": "https://images.unsplash.com/photo-1591348122449-8c1b0af69be8?q=80&w=1374&auto=format&fit=crop",
+      "rating": 5,
+      "reviews": 7,
+      "colors": ["bej"],
+      "model": "belt-bags",
+      "style": "casual",
+      "color": "beige",
+      "size": "medium"
+    },
+    {
+      "id": "23",
+      "brand": "MUGO",
+      "name": "Traveler Bel Çantası - Bej",
+      "price": "1,149.00",
+      "image": "https://images.unsplash.com/photo-1591348278863-a8fb3887e2aa?q=80&w=1374&auto=format&fit=crop",
+      "hoverImage": "https://images.unsplash.com/photo-1591348122449-8c1b0af69be8?q=80&w=1374&auto=format&fit=crop",
+      "rating": 5,
+      "reviews": 7,
+      "colors": ["bej"],
+      "model": "belt-bags",
+      "style": "casual",
+      "color": "beige",
+      "size": "medium"
+    }
+  ],
+  "faq": {
+    "sections": [
+      {
+        "id": "shipping",
+        "title": "Kargo",
+        "questions": [
+          {
+            "id": 1,
+            "question": "Hangi kargo şirketleriyle çalışmaktayız?",
+            "answer": "Kolay Gelsin ve Hepsijet ile çalışmaktayız. Kargo firmalarının yoğunluğuna göre gönderim yapılan kargo firması değişmektedir."
+          },
+          {
+            "id": 2,
+            "question": "Siparişim ne zaman elime ulaşır?",
+            "answer": "Siparişiniz İstanbul içi ve yakın illere konuma verildikten sonraki iş günü, diğer uzak olan illere 2-3 gün içinde teslim edilir. Kargo firması kaynaklı gecikmelerden şirketimiz sorumlu değildir."
+          },
+          {
+            "id": 3,
+            "question": "Tüm siparişlerde kargo ücretsiz mi?",
+            "answer": "mugo.com.tr'den vereceğiniz tüm siparişlerde 1.000 TL ve üzeri kargo ücretsizdir. 1.000 TL altı siparişlerde kargo 75 TL'dir."
+          }
+        ]
+      },
+      {
+        "id": "info",
+        "title": "İade",
+        "content": [
+          { "heading": "Değişim seçeneği bulunmamaktadır." },
+          { "text": "Ürünü teslim alındığı tarihten itibaren 15 gün içerisinde iade edebilirsiniz." },
+          { "text": "İade olarak gönderilecek ürünün yeniden satılabilir özelliğini kaybetmemesi ve ulaştığı gibi paketlenmesi önemlidir." },
+          { "heading": "İç giyim kategorisindeki alt ürünlerde hijyenik sebeplerden dolayı iade yapılmamaktadır." },
+          { "text": "İadenizi MNG Kargo (663877199) kurumsal kodumuz ile Kağıthane / İstanbul depomuza gönderebilirsiniz." },
+          { "heading": "Kod kullanılmadan gönderilen iade kargoları teslim alınmamaktadır." },
+          { "text": "Sorularınız için destek@mugo.com.tr'ye mail atabilir veya 0212 270 65 70 numaralı telefondan bizimle iletişime geçebilirsiniz." }
+        ]
+      },
+      {
+        "id": "returns",
+        "title": "İade",
+        "questions": [
+          {
+            "id": 4,
+            "question": "İademi nasıl kaydettireceğim?",
+            "answer": "İadenizi MNG Kargo (663877199) kurumsal kodumuz ile Kağıthane / İstanbul depomuza gönderebilirsiniz."
+          },
+          {
+            "id": 5,
+            "question": "Para iadem ne zaman gerçekleşir?",
+            "answer": "İade etmiş olduğunuz ürün tarafımıza ulaştıktan sonra inceleme ekibi tarafından incelenecek ve onaylandıktan sonra ücretiniz kullandığınız karta ödeme türünüze uygun olarak, bankanızın online ödeme sistemi üzerinden yapılacak ve ücret iadesi 1-7 iş günü içerisinde hesabınıza yansıtılacaktır."
+          },
+          {
+            "id": 6,
+            "question": "İade ücreti var mı?",
+            "answer": "Anlaşmalı olduğumuz kargo firmaları ile yapacağınız iadelerde kargo ücretsizdir. Bunun dışındaki firmalar ile iadenizi kargolatırsanız iade ücreti tarafınıza ait olacaktır."
+          }
+        ]
+      }
+    ]
+  },
+  "sliderSections": {
+    "productSlider": {
+      "title": "MUGO'nun Yeni Markası: PAEN"
+    },
+    "discountedProductsSlider": {
+      "title": "İndirimli Ürünler"
+    },
+    "packages": {
+      "title": "Avantajlı Paketler"
+    }
+  },
+  "preInfo": {
+    "title": "Ön Bilgilendirme",
+    "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.<br><br>Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt.<br><br>Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut labore et dolore magnam aliquam quaerat voluptatem. Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis suscipit laboriosam, nisi ut aliquid ex ea commodi consequatur? Quis autem vel eum iure reprehenderit qui in ea voluptate velit esse quam nihil molestiae consequatur, vel illum qui dolorem eum fugiat quo voluptas nulla pariatur?<br><br>At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium voluptatum deleniti atque corrupti quos dolores et quas molestias excepturi sint occaecati cupiditate non provident, similique sunt in culpa qui officia deserunt mollitia animi, id est laborum et dolorum fuga. Et harum quidem rerum facilis est et expedita distinctio.<br><br>Nam libero tempore, cum soluta nobis est eligendi optio cumque nihil impedit quo minus id quod maxime placeat facere possimus, omnis voluptas assumenda est, omnis dolor repellendus. Temporibus autem quibusdam et aut officiis debitis aut rerum necessitatibus saepe eveniet ut et voluptates repudiandae sint et molestiae non recusandae. Itaque earum rerum hic tenetur a sapiente delectus, ut aut reiciendis voluptatibus maiores alias consequatur aut perferendis doloribus asperiores repellat."
+  },
+  "salesAgreement": {
+    "title": "Satış Sözleşmesi",
+    "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.<br><br>Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt.<br><br>Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut labore et dolore magnam aliquam quaerat voluptatem. Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis suscipit laboriosam, nisi ut aliquid ex ea commodi consequatur? Quis autem vel eum iure reprehenderit qui in ea voluptate velit esse quam nihil molestiae consequatur, vel illum qui dolorem eum fugiat quo voluptas nulla pariatur?<br><br>At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium voluptatum deleniti atque corrupti quos dolores et quas molestias excepturi sint occaecati cupiditate non provident, similique sunt in culpa qui officia deserunt mollitia animi, id est laborum et dolorum fuga. Et harum quidem rerum facilis est et expedita distinctio.<br><br>Nam libero tempore, cum soluta nobis est eligendi optio cumque nihil impedit quo minus id quod maxime placeat facere possimus, omnis voluptas assumenda est, omnis dolor repellendus. Temporibus autem quibusdam et aut officiis debitis aut rerum necessitatibus saepe eveniet ut et voluptates repudiandae sint et molestiae non recusandae. Itaque earum rerum hic tenetur a sapiente delectus, ut aut reiciendis voluptatibus maiores alias consequatur aut perferendis doloribus asperiores repellat."
+  },
+  "shippingInfo": {
+    "minAmount": 1000,
+    "text": "1.000 TL VE ÜZERİ ÜCRETSİZ KARGO"
+  },
+  "installmentInfo": {
+    "minAmount": 1000,
+    "months": 3,
+    "text": "1.000 TL ÜZERİ 3 AY VADE FARKSIZ TAKSİT"
+  }
+}
